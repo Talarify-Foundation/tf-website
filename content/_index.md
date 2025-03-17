@@ -17,7 +17,7 @@ sections:
         color: '#2D3142'
         image:
           # Name of image in `assets/media/`.
-          filename: home.png
+          filename: home.svg
           # Apply image filters?
           filters:
             # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
