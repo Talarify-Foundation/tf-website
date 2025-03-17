@@ -1,0 +1,24 @@
+# Theme metadata
+name = "tf"
+
+[light]
+  # Primary
+  primary = "#0197F6"
+
+  # Menu
+  menu_primary = "#F17950"
+  menu_text = "#F1F1F1"
+  menu_text_active = "#F17950"
+  menu_title = "#0197F6"
+
+  text-body = "red"
+  h1 = "#F17950"
+
+  link = "#0197F6"
+  link_hover = "#F17950"
+
+  # Home sections
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(241, 241, 241)"
+
+

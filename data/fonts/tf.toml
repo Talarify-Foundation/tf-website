@@ -1,0 +1,11 @@
+# Font style metadata
+name = "tf"
+
+# Optional Google font URL
+google_fonts = "family=Big+Shoulders+Inline:opsz,wght@10..72,100..900&family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Outfit:wght@100..900"
+
+# Font families
+heading_font = "Big Shoulders Inline"
+body_font = "Mulish"
+nav_font = "Mulish"
+mono_font = "Roboto Mono"
