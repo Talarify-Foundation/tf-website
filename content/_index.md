@@ -8,8 +8,11 @@ sections:
   - block: markdown
     content:
       title: |
-        Understanding and addressing skills and knowledge gaps for a stronger future.
-          {style="color: #F1F1F1; font-size:7rem;"}
+        <br>Understanding and addressing <br>
+        skills and knowledge gaps <br>
+        for a stronger future.
+          {style="color: #F1F1F1; font-size:5rem;"}
+        <br>
       text: |
 
     design:
@@ -18,7 +21,7 @@ sections:
   
   - block: markdown
     content:
-      title: At Talarify Foundation we do three things
+      title: What We Do
       subtitle: ''
       text: |
         <br>
@@ -26,35 +29,35 @@ sections:
               <div class="row">
               <div class="col-4">
                   <p align="center">
-                    <a href="https://doi.org/10.5281/zenodo.14961866" target="_blank"><img src="../uploads/research.svg" width="70%"></a>
+                    <a href="" target="_blank"><img src="../uploads/research.svg" width="70%"></a>
                   </p>
                   <h2 align="center">
                     Scoping Research
                   </h2>
                   <p align="center">
-                    Perform research to understand specific teaching and learning needs in niche environments to ensure optimal use of resources and time.
+                    Our collaborative research helps you understand specific teaching and learning needs in niche environments to ensure optimal use of resources and time.
                   </p>
               </div>
               <div class="col-4">
                   <p align="center">
-                      <a href="https://doi.org/10.5281/zenodo.14961866" target="_blank"><img src="../uploads/localisation.svg" width="70%"></a>
+                      <a href="" target="_blank"><img src="../uploads/localisation.svg" width="70%"></a>
                   </p>
                   <h2 align="center">
                     Resource Localisation
                   </h2>
                   <p align="center">
-                    We support the localisation and contextualisation of learning resources and training interventions to facilitate optimal learning experiences.
+                    Evidence-based support with localisation and contextualisation of learning resources and training interventions enable you to facilitate optimal learning experiences.
                   </p>
               </div>
               <div class="col-4">
                   <p align="center">
-                      <a href="https://doi.org/10.5281/zenodo.14961866" target="_blank"><img src="../uploads/community.svg" width="70%"></a>
+                      <a href="" target="_blank"><img src="../uploads/community.svg" width="70%"></a>
                   </p>
                   <h2 align="center">
                     Communities of Practice
                   </h2>
                   <p align="center">
-                    We enable champions to grow communities of practice where continuous learning and knowledge sharing can thrive.
+                    Basic infrastructure and support for champions who want to grow communities of practice create spaces where continuous learning and knowledge sharing can thrive.
                   </p>
               </div>
               </div>
